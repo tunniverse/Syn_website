@@ -1,3 +1,4 @@
 # SYN.
-Invest and Earn Synthetic Asset today.
-<a href="tunyalit@gmail.com">Contact Tun</a>
+Invest and Earn Crypto today.
+Twitter <a href="https://twitter.com/TunKarnjanakul">@TunKarnjanakul</a>
+Email <a href = "mailto: tunyalit@gmail.com">tunyalit@gmail.com</a>
