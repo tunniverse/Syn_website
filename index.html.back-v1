@@ -20,7 +20,22 @@
 				<!-- Header -->
 					<header id="header" class="alt">
 						<h1><a href="index.html">SNY</a></h1>
-
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Generic</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
 					</header>
 
 				<!-- Banner -->
@@ -40,8 +55,8 @@
 					<section id="one" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
-								<h2>SYN is private investment firm laser focused on<br />
-								synthetic assets, tokens, & blockchain nodes</h2>
+								<h2>SYN is investment firm laser focused on<br />
+								synthetic assets, tokens, & blockchain nodes.</h2>
 								<p>At SYN we build investment platform for our investor focus only in digital assets. Invest in early stage crypto companys token & trading spot market and deveratives. </p>
 							</header>
 							<ul class="icons major">
@@ -72,7 +87,7 @@
 							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
 								<h2>Staking Nodes<br />
 								</h2>
-								<p>Support Proof-of-Stake consensus mechanism blockchain by makeing network more secure and receive staking rewards.</p>
+								<p>Lift off technical part of staking node that need to be prepare and support and make network more robust.</p>
 							</div>
 						</section>
 					</section>
@@ -86,7 +101,32 @@
 									we executes investment decisions through fundamental weight long side position<br/>
 									 with risk management are determined by quantitative pricing analysis.</p>
 							</header>
-
+							<ul class="features">
+								<li class="icon fa-paper-plane">
+									<h3>Robust founder team</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon solid fa-laptop">
+									<h3>Scalable technology</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon solid fa-code">
+									<h3>Mus Scelerisque</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon solid fa-headphones-alt">
+									<h3>Mauris Imperdiet</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-heart">
+									<h3>Aenean Primis</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+								<li class="icon fa-flag">
+									<h3>Tortor Ut</h3>
+									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+								</li>
+							</ul>
 						</div>
 					</section>
 
@@ -95,7 +135,7 @@
 						<div class="inner">
 							<header>
 								<h2>Invest</h2>
-								<p>SYN represent name of private investment team we do not accpt fund from outside investor.<br>
+								<p>SYN represent name of private investment team we do not accpt outside investor.<br>
 									<s>We open for non-us crypto investor only</s><br>
 									<s>Minimum Investment $20,000</s> <br>
 									<s>Management Fee 2%</s><br>
